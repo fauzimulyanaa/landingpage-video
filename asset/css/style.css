@@ -142,6 +142,10 @@ ul {
 /* breakpoints */
 
 @media (max-width: 576px) {
+   .container {
+    width: 100%;
+    overflow: hidden;
+  }
   .navbar {
     background-color: #efc81a;
   }
